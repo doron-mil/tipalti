@@ -1,0 +1,17 @@
+{
+  "name": "tipalti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./tipalti.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.6.8",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
